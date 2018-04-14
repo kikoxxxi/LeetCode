@@ -1,0 +1,17 @@
+# Python:
+*.py[cod]
+
+dist
+build
+__pycache__/
+*$py.class
+
+# virtualenv
+.venv/
+
+# json
+*.json
+
+*.rdb
+
+.idea/
